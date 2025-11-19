@@ -1,0 +1,10 @@
+#define B_WIDTH 500
+#define B_HEIGHT 500
+#define DOT_SIZE 10
+#define ALL_DOTS 900
+#define INIT_SIZE 3
+#define RAND_POS 42
+#define DELAY 140
+#define BODY_PATH "Snake/var/images/green_square.png"
+#define HEAD_PATH "Snake/var/images/yellow_square.png"
+#define FOOD_PATH "Snake/var/images/rapple.png"
